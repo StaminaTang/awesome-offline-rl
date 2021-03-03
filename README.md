@@ -24,21 +24,31 @@ For any question, feel free to contact: saito@hanjuku-kaso.com
 - [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643)
   - Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 
-### Offline RL: Theory/Methods
-- [Improved Context-Based Offline Meta-RL with Attention and Contrastive Learning](https://arxiv.org/abs/2102.10774)
-  - Lanqing Li, Yuanhao Huang, and Dijun Luo. arXiv, 2021.
+###离线RL：理论/方法
+MetaRL：
+- [具有注意和对比学习的改进的基于内置的脱机Meta-RL] （https://arxiv.org/abs/2102.10774）
+  -李岚清，黄元浩和罗迪君。2021年，arXiv。
+  因果：
 - [Instrumental Variable Value Iteration for Causal Offline Reinforcement Learning](https://arxiv.org/abs/2102.09907)
-  - Luofeng Liao, Zuyue Fu, Zhuoran Yang, Mladen Kolar, and Zhaoran Wang. arXiv, 2021.
-- [GELATO: Geometrically Enriched Latent Model for Offline Reinforcement Learning](https://arxiv.org/abs/2102.11327)
+  -廖洛峰，傅祖跃，杨卓然，姆拉登·科拉尔和王昭然。2021年，arXiv。
+暂无models：
+- [GELATO：用于离线强化学习的几何丰富的潜在模型] （https://arxiv.org/abs/2102.11327）
   - Guy Tennenholtz, Nir Baram, and Shie Mannor. arXiv, 2021.
+ MB：
+》不确定性
+ MB：
 - [MUSBO: Model-based Uncertainty Regularized and Sample Efficient Batch Optimization for Deployment Constrained Reinforcement Learning](https://arxiv.org/abs/2102.11448)
-  - DiJia Su, Jason D. Lee, John M. Mulvey, and H. Vincent Poor. arXiv, 2021.
-- [Continuous Doubly Constrained Batch Reinforcement Learning](https://arxiv.org/abs/2102.09225)
-  - Rasool Fakoor, Jonas Mueller, Pratik Chaudhari, and Alexander J. Smola. arXiv, 2021.
+  - DiJia Su, Jason D. Lee, John M. Mulvey, and H. Vincent Poor. arXiv, 2021. 约束
 - [COMBO: Conservative Offline Model-Based Policy Optimization](https://arxiv.org/abs/2102.08363)
+
+
+- [Continuous Doubly Constrained Batch Reinforcement Learning](https://arxiv.org/abs/2102.09225)约束
+  - Rasool Fakoor, Jonas Mueller, Pratik Chaudhari, and Alexander J. Smola. arXiv, 2021.
+
   - Tianhe Yu, Aviral Kumar, Rafael Rafailov, Aravind Rajeswaran, Sergey Levine, and Chelsea Finn. arXiv, 2021.
 - [Representation Matters: Offline Pretraining for Sequential Decision Making](https://arxiv.org/abs/2102.05815)
-  - Mengjiao Yang and Ofir Nachum. arXiv, 2021.
+  - Mengjiao Yang and Ofir Nachum. arXiv, 2021.表示学习
+ 
 - [Q-Value Weighted Regression: Reinforcement Learning with Limited Data](https://arxiv.org/abs/2102.06782)
   - Piotr Kozakowski, Łukasz Kaiser, Henryk Michalewski, Afroz Mohiuddin, and Katarzyna Kańska. arXiv, 2021.
 - [PerSim: Data-Efficient Offline Reinforcement Learning with Heterogeneous Agents via Personalized Simulators](https://arxiv.org/abs/2102.06961)
