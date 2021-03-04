@@ -121,6 +121,7 @@ MetaRL：
 - [Offline Reinforcement Learning from Images with Latent Space Models](https://arxiv.org/abs/2012.11547) [[website](https://sites.google.com/view/lompo/)]
   - Rafael Rafailov, Tianhe Yu, Aravind Rajeswaran, and Chelsea Finn. arXiv, 2020.
 》不确定性
+
  MB：
 - [MUSBO: Model-based Uncertainty Regularized and Sample Efficient Batch Optimization for Deployment Constrained Reinforcement Learning](https://arxiv.org/abs/2102.11448)
   - DiJia Su, Jason D. Lee, John M. Mulvey, and H. Vincent Poor. arXiv, 2021. 约束
